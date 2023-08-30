@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Country music star suffers heat stroke midperformance",
+    "description": "Jason Aldean was seen sprinting off stage in the middle of his Connecticut concert.",
+    "url": "http://www.bbc.co.uk/news/worlduscanada66227801",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14E92/production/_130405658_p0g1ds56.jpg",
+    "publishedAt": "20230717T16:37:23.2329768Z",
+    "content": "The country artist sprinted off stage in the middle of this Connecticut concert.\r\nRecent recordbreaking temperatures contribute to heat exhaustion and other forms of heatrelated conditions, such as… [+18 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Two dead after 'attack' on Crimea bridge",
+    "description": "Russianinstalled officials have told people to find other routes into the occupied Ukrainian peninsula.",
+    "url": "http://www.bbc.co.uk/news/worldeurope66218869",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CDD1/production/_130398625_a82ee2f786845f1a8aa40d867ad0d0013d01ff27.jpg",
+    "publishedAt": "20230717T16:37:21.1241272Z",
+    "content": "Media caption, Watch: Ros Atkins on... the latest Crimea bridge attack\r\nTwo people have died after an \"attack\" on the bridge linking the occupied Crimean Peninsula to Russia. \r\nMoscow has blamed Ukra… [+4630 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "California crews battle wildfires in extreme heat",
+    "description": "One woman reportedly suffered severe burns and was airlifted to hospital amid the brush fires.",
+    "url": "http://www.bbc.co.uk/news/worlduscanada66190845",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7997/production/_130372113_gettyimages1536480025.jpg",
+    "publishedAt": "20230717T16:22:26.2796049Z",
+    "content": "California crews are battling four wildfires amid a tripledigit heatwave in parts of the state.\r\nThe worst damage was in Riverside County in southern California, where the Rabbit Fire has razed near… [+1443 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sir Elton John gives evidence in Kevin Spacey trial",
+    "description": "The musician appeared via video link as a defence witness in the actor's sex assault trial.",
+    "url": "http://www.bbc.co.uk/news/uk66222886",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2026/production/_130403280_mediaitem130403276.jpg",
+    "publishedAt": "20230717T16:22:23.2491086Z",
+    "content": "Sir Elton John has given evidence as a defence witness at actor Kevin Spacey's sexual assault trial.\r\nThe musician was asked about Mr Spacey's attendance at a party hosted by the singer at his home i… [+1654 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Drug donanemab seen as turning point in dementia fight",
+    "description": "The antibody treatment donanemab helps clear the brain of a damaging protein that builds up in Alzheimer's.",
+    "url": "http://www.bbc.co.uk/news/health66221116",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/598B/production/_127832922_brain_scans_woman_getty.jpg",
+    "publishedAt": "20230717T14:22:22.5573246Z",
+    "content": "Results out today confirm that the drug donanemab, hailed as a turning point in the fight against Alzheimer's, slows cognitive decline by about a third.\r\nMike Colley, who is 80, is one of only a few … [+5989 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Actors' strike: Mark Ruffalo says cut out Hollywood 'fat cats'",
+    "description": "The star is encouraging fellow striking actors and writers to make their own indie films and shows.",
+    "url": "http://www.bbc.co.uk/news/entertainmentarts66220007",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1E77/production/_130399770_gettyimages1502644415.jpg",
+    "publishedAt": "20230717T14:07:21.3887829Z",
+    "content": "Mark Ruffalo is encouraging fellow actors and writers to work together to cut out Hollywood's \"fat cats\" by making independent films and shows.\r\nHis comments follow the start of the actors' strike th… [+4869 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Apple iPhone from 2007 sells for $190,000 at auction",
+    "description": "The rare firstedition, unopened 4GB model sold for almost 400 times its original value.",
+    "url": "http://www.bbc.co.uk/news/technology66222296",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF16/production/_130401175_gettyimages794646137.jpg",
+    "publishedAt": "20230717T13:22:16.092278Z",
+    "content": "Usually iPhones plummet in value as soon as you take them out of the shop.\r\nBut there are some special cases, as seen at an auction in the US, where a firstedition, unopened 4GB model sold for $190,… [+1924 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The 'QAnon Shaman' and other Capitol rioters who regret pleading guilty",
+    "description": "Taking back their remorse could land defendants with stiffer sentences.",
+    "url": "http://www.bbc.co.uk/news/worlduscanada66169914",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C823/production/_130353215_jakeangelichansley.jpg",
+    "publishedAt": "20230717T11:22:22.2181401Z",
+    "content": "A growing number of Capitol rioters have gone back on their guilty pleas and apologies  including one of the most recognisable faces from 6 January.\r\nStanding in court, Jacob Angeli Chansley, known … [+7184 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Heatwaves: Europe and southwest US gripped by extreme temperatures",
+    "description": "Millions of people face extreme heat warnings and forecasters say records are likely to broken in the coming days.",
+    "url": "http://www.bbc.co.uk/news/live/world66207430",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbcmorphnewswafpagemeta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "20230717T10:07:24.6083473Z",
+    "content": "The usually crowded streets of Las Vegas were considerably\r\nemptier than normal on Sunday, with security guards guarding the fountains of\r\nupscale casinos and hotels to prevent people from jumping in… [+933 chars]"
+    },
+    {
+    "source": {
+    "id": "bbcnews",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine behind new attack on Crimea bridge  Russian official",
+    "description": "Two people die as explosions are reported on the bridge linking the occupied peninsula to Russia.",
+    "url": "http://www.bbc.co.uk/news/live/worldeurope66219127",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbcmorphnewswafpagemeta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "20230717T06:52:20.716531Z",
+    "content": "Good morning and welcome to our live page on the war in Ukraine. \r\nThe Russianinstalled head of Crimea's parliament has accused Ukraine of making a new attack on the bridge linking the occupied Crim… [+520 chars]"
+    }
+    ]
+    }
+    
