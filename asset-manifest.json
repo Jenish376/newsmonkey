@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/newsmonkey/static/css/main.abd64e84.css",
-    "main.js": "/newsmonkey/static/js/main.f0e2fe18.js",
+    "main.js": "/newsmonkey/static/js/main.0aaa65a7.js",
     "static/js/787.4c026eef.chunk.js": "/newsmonkey/static/js/787.4c026eef.chunk.js",
     "static/media/Iphone-spinner-2.gif": "/newsmonkey/static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
     "index.html": "/newsmonkey/index.html",
     "main.abd64e84.css.map": "/newsmonkey/static/css/main.abd64e84.css.map",
-    "main.f0e2fe18.js.map": "/newsmonkey/static/js/main.f0e2fe18.js.map",
+    "main.0aaa65a7.js.map": "/newsmonkey/static/js/main.0aaa65a7.js.map",
     "787.4c026eef.chunk.js.map": "/newsmonkey/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.f0e2fe18.js"
+    "static/js/main.0aaa65a7.js"
   ]
 }
